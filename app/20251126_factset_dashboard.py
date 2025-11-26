@@ -137,8 +137,8 @@ st.title("UK Buyer–Supplier Network Dashboard")
 
 st.markdown(
     """
-    This dashboard counts unique buyer–supplier relationships across the **source_uk** and **target_uk** sheets,
-    and applies dynamic filters on supplier listing status, supplier UK status, and buyer SCF status.
+    This dashboard relates to the RFP disclosure project. It counts unique buyer–supplier relationships based on data downloaded from Factset Revere,
+    and applies filters on supplier listing status, location (UK/no UK), and whether the involved buyer is flagged for having an RFP.
     """
 )
 
