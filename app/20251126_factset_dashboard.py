@@ -8,7 +8,7 @@ import streamlit as st
 # -----------------------------
 # Configuration
 # -----------------------------
-EXCEL_PATH = r"data/20251125_UKsuppliers_compiled.xlsx"  # adjust to your local path
+EXCEL_PATH = r"app/data/20251125_UKsuppliers_compiled.xlsx"  # adjust to your local path
 SOURCE_SHEET = "source_uk"
 TARGET_SHEET = "target_uk"
 
